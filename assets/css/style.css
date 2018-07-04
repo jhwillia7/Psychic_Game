@@ -1,0 +1,9 @@
+/* Basic font size for h1*/
+h1 {
+    font-size: 50px;
+}
+/* margin around the div and the line height for div to get propper spacing*/
+div {
+    margin: 25px;
+    line-height: 50px;
+}
